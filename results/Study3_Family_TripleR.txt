@@ -1,0 +1,181 @@
+
+Round-Robin object ('RR'), calculated by TripleR
+------------------------------------------------
+Latent construct analysis of one construct measured by two round robin variables in multiple groups (significance test based on Lashley & Bond, 1997, Psychological Methods)
+
+Univariate analyses for: support1/support2 
+---------
+Group descriptives: n =  182 ; average group size =  4 ; range:  4 - 4 
+                         estimate standardized    se t.value p.value
+actor variance              0.220        0.316 0.031   7.003       0
+partner variance            0.111        0.160 0.025   4.387       0
+relationship variance       0.135        0.194 0.022   6.049       0
+error variance              0.230        0.330    NA      NA      NA
+actor-partner covariance    0.131        0.838 0.026   4.989       0
+relationship covariance     0.119        0.878 0.022   5.312       0
+Actor effect reliability: .657 
+Partner effect reliability: .508 
+Relationship effect reliability: .581 
+NULL
+Round-Robin object ('RR'), calculated by TripleR
+------------------------------------------------
+Latent construct analysis of one construct measured by two round robin variables in multiple groups (significance test based on Lashley & Bond, 1997, Psychological Methods)
+
+Univariate analyses for: harm1/harm2 
+---------
+Group descriptives: n =  182 ; average group size =  4 ; range:  4 - 4 
+                         estimate standardized    se t.value p.value
+actor variance              0.019        0.109 0.009   2.222   0.013
+partner variance            0.005        0.026 0.006   0.752   0.226
+relationship variance       0.019        0.105 0.007   2.820   0.002
+error variance              0.133        0.759    NA      NA      NA
+actor-partner covariance    0.001        0.061 0.007   0.079   0.937
+relationship covariance     0.011        0.568 0.007   1.601   0.110
+Actor effect reliability: .320 
+Partner effect reliability: .125 
+Relationship effect reliability: .295 
+NULL
+Round-Robin object ('RR'), calculated by TripleR
+------------------------------------------------
+Latent construct analysis of one construct measured by two round robin variables in multiple groups (significance test based on Lashley & Bond, 1997, Psychological Methods)
+
+Univariate analyses for: listen1/listen2 
+---------
+Group descriptives: n =  182 ; average group size =  4 ; range:  4 - 4 
+                         estimate standardized    se t.value p.value
+actor variance              0.198        0.301 0.028   7.016       0
+partner variance            0.111        0.169 0.024   4.567       0
+relationship variance       0.140        0.213 0.018   7.969       0
+error variance              0.209        0.317    NA      NA      NA
+actor-partner covariance    0.124        0.836 0.025   5.011       0
+relationship covariance     0.113        0.806 0.018   6.422       0
+Actor effect reliability: .632 
+Partner effect reliability: .512 
+Relationship effect reliability: .648 
+NULL
+Round-Robin object ('RR'), calculated by TripleR
+------------------------------------------------
+Latent construct analysis of one construct measured by two round robin variables in multiple groups (significance test based on Lashley & Bond, 1997, Psychological Methods)
+
+Univariate analyses for: value1/value2 
+---------
+Group descriptives: n =  182 ; average group size =  4 ; range:  4 - 4 
+                         estimate standardized    se t.value p.value
+actor variance              0.212        0.240 0.036   5.947       0
+partner variance            0.165        0.187 0.033   4.959       0
+relationship variance       0.278        0.315 0.032   8.790       0
+error variance              0.228        0.258    NA      NA      NA
+actor-partner covariance    0.169        0.904 0.033   5.125       0
+relationship covariance     0.234        0.840 0.032   7.385       0
+Actor effect reliability: .549 
+Partner effect reliability: .481 
+Relationship effect reliability: .752 
+NULL
+Round-Robin object ('RR'), calculated by TripleR
+------------------------------------------------
+Latent construct analysis of one construct measured by two round robin variables in multiple groups (significance test based on Lashley & Bond, 1997, Psychological Methods)
+
+Univariate analyses for: trust1/trust2 
+---------
+Group descriptives: n =  182 ; average group size =  4 ; range:  4 - 4 
+                         estimate standardized    se t.value p.value
+actor variance              0.056        0.078 0.016   3.382       0
+partner variance            0.204        0.287 0.031   6.677       0
+relationship variance       0.073        0.103 0.015   4.875       0
+error variance              0.379        0.532    NA      NA      NA
+actor-partner covariance    0.088        0.829 0.021   4.226       0
+relationship covariance     0.067        0.919 0.015   4.479       0
+Actor effect reliability: .353 
+Partner effect reliability: .597 
+Relationship effect reliability: .393 
+NULL
+Round-Robin object ('RR'), calculated by TripleR
+------------------------------------------------
+Latent construct analysis of one construct measured by two round robin variables in multiple groups (significance test based on Lashley & Bond, 1997, Psychological Methods)
+
+Univariate analyses for: support1/support2 
+---------
+Group descriptives: n =  182 ; average group size =  4 ; range:  4 - 4 
+                         estimate standardized    se t.value p.value
+actor variance              0.292        0.212 0.047   6.186       0
+partner variance            0.286        0.208 0.049   5.855       0
+relationship variance       0.422        0.306 0.052   8.120       0
+error variance              0.378        0.274    NA      NA      NA
+actor-partner covariance    0.196        0.678 0.045   4.365       0
+relationship covariance     0.347        0.821 0.052   6.671       0
+Actor effect reliability: .509 
+Partner effect reliability: .523 
+Relationship effect reliability: .756 
+NULL
+Round-Robin object ('RR'), calculated by TripleR
+------------------------------------------------
+Latent construct analysis of one construct measured by two round robin variables in multiple groups (significance test based on Lashley & Bond, 1997, Psychological Methods)
+
+Univariate analyses for: harm1/harm2 
+---------
+Group descriptives: n =  181 ; average group size =  4 ; range:  4 - 4 
+                         estimate standardized    se t.value p.value
+actor variance              0.220        0.270 0.032   6.843   0.000
+partner variance            0.142        0.174 0.030   4.725   0.000
+relationship variance       0.184        0.225 0.024   7.765   0.000
+error variance              0.271        0.331    NA      NA      NA
+actor-partner covariance    0.053        0.300 0.024   2.233   0.026
+relationship covariance     0.116        0.632 0.024   4.908   0.000
+Actor effect reliability: .611 
+Partner effect reliability: .518 
+Relationship effect reliability: .675 
+NULL
+Round-Robin object ('RR'), calculated by TripleR
+------------------------------------------------
+Latent construct analysis of one construct measured by two round robin variables in multiple groups (significance test based on Lashley & Bond, 1997, Psychological Methods)
+
+Univariate analyses for: listen1/listen2 
+---------
+Group descriptives: n =  182 ; average group size =  4 ; range:  4 - 4 
+                         estimate standardized    se t.value p.value
+actor variance              0.293        0.220 0.047   6.198       0
+partner variance            0.285        0.214 0.049   5.862       0
+relationship variance       0.429        0.322 0.051   8.448       0
+error variance              0.326        0.245    NA      NA      NA
+actor-partner covariance    0.191        0.660 0.045   4.271       0
+relationship covariance     0.361        0.842 0.051   7.112       0
+Actor effect reliability: .527 
+Partner effect reliability: .520 
+Relationship effect reliability: .780 
+NULL
+Round-Robin object ('RR'), calculated by TripleR
+------------------------------------------------
+Latent construct analysis of one construct measured by two round robin variables in multiple groups (significance test based on Lashley & Bond, 1997, Psychological Methods)
+
+Univariate analyses for: value1/value2 
+---------
+Group descriptives: n =  181 ; average group size =  4 ; range:  4 - 4 
+                         estimate standardized    se t.value p.value
+actor variance              0.392        0.243 0.059   6.638       0
+partner variance            0.365        0.226 0.058   6.283       0
+relationship variance       0.573        0.356 0.060   9.510       0
+error variance              0.281        0.175    NA      NA      NA
+actor-partner covariance    0.333        0.879 0.056   5.902       0
+relationship covariance     0.496        0.865 0.060   8.226       0
+Actor effect reliability: .551 
+Partner effect reliability: .530 
+Relationship effect reliability: .817 
+NULL
+Round-Robin object ('RR'), calculated by TripleR
+------------------------------------------------
+Latent construct analysis of one construct measured by two round robin variables in multiple groups (significance test based on Lashley & Bond, 1997, Psychological Methods)
+
+Univariate analyses for: trust1/trust2 
+---------
+Group descriptives: n =  182 ; average group size =  4 ; range:  4 - 4 
+                         estimate standardized    se t.value p.value
+actor variance              0.256        0.191 0.042   6.063   0.000
+partner variance            0.309        0.231 0.046   6.719   0.000
+relationship variance       0.288        0.216 0.044   6.589   0.000
+error variance              0.484        0.362    NA      NA      NA
+actor-partner covariance    0.110        0.390 0.039   2.844   0.005
+relationship covariance     0.245        0.849 0.044   5.595   0.000
+Actor effect reliability: .552 
+Partner effect reliability: .547 
+Relationship effect reliability: .639 
+NULL
